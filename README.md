@@ -11,4 +11,10 @@ Using the exploratory data analysis (EDA) results from the Breast Cancer Diagnos
 6) Plotted CV Scores vs Number of Features Selected
 7) Did Feature Extraction using Principal Component Analysis
 
+**Language used:**
+
+Python
+
 **Files:**
+1) **Tumor Diagnosis.ipynb** is the Jupyter Notebook containing my work.
+2) **data.csv"** is the data used.
